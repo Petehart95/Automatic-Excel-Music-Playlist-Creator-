@@ -1,0 +1,81 @@
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.exe
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll.config
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.deps.json
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.runtimeconfig.json
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.runtimeconfig.dev.json
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.pdb
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\taglib-sharp.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\bin\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.AssemblyReference.cache
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.ResolveComReference.cache
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfoInputs.cache
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfo.cs
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CoreCompileInputs.cache
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CopyComplete
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.pdb
+C:\Users\Peter Hart\Music\Excel Playlist Creator Thingy\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.genruntimeconfig.cache
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.exe
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll.config
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.deps.json
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.runtimeconfig.json
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.runtimeconfig.dev.json
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Excel Playlist Creator Thingy.pdb
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\taglib-sharp.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\bin\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.AssemblyReference.cache
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.ResolveComReference.cache
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfoInputs.cache
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfo.cs
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CoreCompileInputs.cache
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CopyComplete
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.dll
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.pdb
+C:\Users\Peter Hart\Desktop\Excel Playlist Creator Thingy\Excel Playlist Creator Thingy\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.genruntimeconfig.cache
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.exe
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.dll.config
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.deps.json
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.runtimeconfig.json
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.runtimeconfig.dev.json
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.pdb
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\SpreadsheetLight.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\taglib-sharp.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\bin\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.AssemblyReference.cache
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.ResolveComReference.cache
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfoInputs.cache
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.AssemblyInfo.cs
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CoreCompileInputs.cache
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.csproj.CopyComplete
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.dll
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\AutomaticExcelMusicPlaylistCollator.pdb
+D:\Documents\Github\Automatic-Excel-Music-Playlist-Creator-\AutomaticExcelMusicPlaylistCollator\Project Files\getfilenames\obj\Release\netcoreapp3.1\Excel Playlist Creator Thingy.genruntimeconfig.cache

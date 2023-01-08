@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsRixqzoRAQ+VyKInCPoUtsUK8H5TXPSy/8b4a4newhwh8vYRYGm1c7Rpru7qJcCC3+KFrr7WEmnXzASDa1oUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Github\\Automatic-Excel-Music-Playlist-Creator-\\AutomaticExcelMusicPlaylistCollator\\Project Files\\getfilenames\\MusicPlaylistSpreadsheetCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Peter Hart\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
